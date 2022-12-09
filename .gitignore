@@ -23,3 +23,4 @@ bin-release/
 # ignore binary execution file
 */exe
 */run
+*.bin
