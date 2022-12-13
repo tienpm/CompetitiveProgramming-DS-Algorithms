@@ -1,7 +1,7 @@
 /*
 	author: Cero
 	created: 08.04.2022
-	Leetcode 3: Longest Substring Without Repeating Characters - AC
+	status: AC
 */
 
 # include <bits/stdc++.h>
