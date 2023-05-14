@@ -24,3 +24,6 @@ bin-release/
 */exe
 */run
 *.bin
+
+# ignore java built files
+*.class
