@@ -20,6 +20,7 @@ bin-release/
 # ignore .txt or .in file because it is input file
 *.txt
 *.in
+*.inp
 # ignore binary execution file
 */exe
 */run
